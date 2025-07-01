@@ -1,3 +1,7 @@
 # CRM Sales Dashboard
 
-This folder contains my CRM Sales Dashboard project, which includes interactive quadrant analysis with RAG indicators using Power BI.
+This project focuses on analyzing CRM sales data using Power BI.  
+Key features include quadrant analysis with RAG (Red-Amber-Green) indicators to visualize sales performance by team and product.
+
+**Tools:** Power BI  
+**Skills:** Data modeling, RAG indicators, quadrant visualization  
