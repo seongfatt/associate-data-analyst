@@ -1,9 +1,0 @@
-﻿models,accuracy_%
-Logisitc Regression,72.71
-K-Nearest Neighbor,70.9
-Naïve Bayes,71.9
-Decision Tree,72.88
-Random Forest,72.29
-XGBoost,72.19
-Support Vector Machine ('rbf'),73.27
-Artificial Neural Network,73.23
