@@ -1,7 +1,5 @@
 # E-commerce Business Analysis Capstone Project
 
-[cite_start]This project is a capstone for the Associate DA program, designed to provide a real-life business problem for analysis[cite: 277]. [cite_start]The main objective is to apply the knowledge, skills, and concepts gained throughout the academic journey[cite: 287].
-
 ### Project Purpose
 
 [cite_start]The primary goal of this project is to analyze a dataset of products from Amazon, India, to gain insights that can inform pricing strategies and product positioning[cite: 294, 311]. [cite_start]The dataset includes details such as product name, category, sub-category, discount and price, etc.[cite: 296]. [cite_start]The project also aims to help with professional development by fostering skills in time management, teamwork, and problem-solving[cite: 289].
