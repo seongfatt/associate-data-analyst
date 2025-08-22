@@ -1,4 +1,4 @@
-Project Summary: Singapore HDB Resale Flats Data Analysis
+# Project Summary: Singapore HDB Resale Flats Data Analysis
 Project Purpose
 The primary objective of this project was to perform a comprehensive data analysis of the HDB resale flats dataset. The goal was to clean, transform, and analyze the data to uncover valuable insights into the Singapore HDB resale market. This includes understanding price trends, identifying key factors influencing prices, and creating a robust foundation for interactive dashboards.
 
