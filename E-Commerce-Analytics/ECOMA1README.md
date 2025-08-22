@@ -74,8 +74,3 @@ The company seeks to:
 - Geo-spatial analysis for logistics optimization.
 - Integration of customer feedback for experience enhancement.
 
----
-
-📅 **Presented by:** Tang Seong Fatt  
-📚 **Course:** Associate Data Analyst Capstone  
-📅 **Date:** June 1, 2025
