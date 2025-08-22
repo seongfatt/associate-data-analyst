@@ -6,9 +6,9 @@ The primary goal of this project is to analyze a dataset of products from Amazon
 
 ### General Process and Key Objectives
 
-[cite_start]The project follows a general process that includes several key steps[cite: 299]:
+The project follows a general process that includes several key steps:
 
-* **Problem Statement:** The company wants to analyze its product catalog to gain insights into its listed products[cite: 309].
+* **Problem Statement:** The company wants to analyze its product catalog to gain insights into its listed products.
 * **Research Objective:** The task is to create a report with important insights for the company to better understand pricing patterns, product ratings, and which products have high prices and discounts
 * **Data Understanding and Preparation:** This involves understanding the features in the dataset and preparing the data by handling missing values and changing data types
 * **Report Creation:** A professional report needs to be created to show the findings and include Key Performance Indicators (KPIs) that can help with business decisions
