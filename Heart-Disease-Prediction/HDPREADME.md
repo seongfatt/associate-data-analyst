@@ -1,4 +1,4 @@
-### Project Summary: Cardio Data Analysis and Classification
+# Project Summary: Cardio Data Analysis and Classification
 
 **Project Purpose**
 The primary objective of this project was to perform a comprehensive data analysis and build a classification model to predict the presence of heart disease based on various health and lifestyle factors. The project aims to identify key risk factors and evaluate the performance of different machine learning models.
