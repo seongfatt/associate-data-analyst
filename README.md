@@ -25,7 +25,7 @@ I'm a junior data analyst who recently completed the NTUC Associate Data Analyst
 
 <details>
   <summary>🧠 Heart Disease Prediction</summary>
-  Logistic regression model in Python (Jupyter) with Power BI dashboard integration.  
+  Logistic regression model in Python (Jupyter).  
 </details>
 
 <details>
