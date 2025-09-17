@@ -58,5 +58,9 @@ I'm a junior data analyst who recently completed the NTUC Associate Data Analyst
 - More hands-on projects and AI-powered analytics workflows
 
 ---
+## 🎮 Mini Game
 
+🕹️ Take a break and play 👉 [Connect4](https://seongfatt.github.io/connect4/)
+
+---
 📫 Feel free to explore my repositories. Feedback and learning tips are always welcome!
