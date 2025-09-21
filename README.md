@@ -10,6 +10,18 @@ I'm a junior data analyst who recently completed the NTUC Associate Data Analyst
 
 ---
 
+🤖 How Gen AI Helped Me Build This Project
+As a new data analyst, I used Gen AI tools (ChatGPT, Gemini, Claude) to:
+
+Understand how to structure SQL queries for business questions
+Choose the right chart types for different metrics
+Debug Excel formulas and Power BI DAX expressions
+Write clear documentation and project summaries
+This doesn’t make me “less” of an analyst — it makes me a modern one.
+I focus on understanding the problem, validating the output, and delivering value — with AI as my assistant, not my replacement. 
+
+---
+
 ## 🛠️ Tools & Skills
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)
@@ -50,12 +62,12 @@ I'm a junior data analyst who recently completed the NTUC Associate Data Analyst
 
 ---
 
-## 🌱 Currently Learning
+### 📚 Currently Learning (In Public!)
+- Advanced SQL Window Functions
+- Power BI DAX Deep Dive
+- Prompt Engineering for Data Tasks
 
-- Advanced DAX in Power BI  
-- Git and GitHub version control  
-- Data storytelling techniques  
-- More hands-on projects and AI-powered analytics workflows
+> “I document my progress — mistakes and all — because learning in public keeps me accountable.”
 
 ---
 📫 Feel free to explore my repositories. Feedback and learning tips are always welcome!
